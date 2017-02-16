@@ -1,3 +1,4 @@
+REM Créé par sunazerty
 TITLE batchPokedex
 COLOR 18
 chcp 28591 > nul

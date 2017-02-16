@@ -1,3 +1,4 @@
+<!-- Créé par sunazerty -->
 # batchPokedex
 Un Pokédex en français et en Batch.
 Pour l'utiliser, il faut exécuter le fichier "run.bat".

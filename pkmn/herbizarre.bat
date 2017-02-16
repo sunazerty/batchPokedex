@@ -1,3 +1,4 @@
+REM Créé par sunazerty
 chcp 28591 > nul
 ECHO OFF
 COLOR 18

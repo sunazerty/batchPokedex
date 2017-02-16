@@ -1,3 +1,4 @@
+REM Créé par sunazerty
 TITLE batchPokedex
 chcp 28591 > nul
 ECHO OFF
