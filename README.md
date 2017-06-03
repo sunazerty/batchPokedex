@@ -1,6 +1,7 @@
 <!-- Créé par sunazerty -->
 # batchPokedex
 ![language:french](https://img.shields.io/badge/language-french-blue.svg)
+
 Un Pokédex en français et en Batch.
 Pour l'utiliser, il faut exécuter le fichier "run.bat".
 Ce programme est en version alpha et restera en version "alpha" jusqu'à l'ajout de tous les Pokémon.
