@@ -1,6 +1,6 @@
 <!-- Créé par sunazerty -->
 # batchPokedex
-[![language:french](https://img.shields.io/badge/language-french-blue.svg)]
+[![language:french](https://img.shields.io/badge/language-french-blue.svg)](https://github.com/sunazerty/batchPokedex/)
 
 Un Pokédex en français et en Batch.
 Pour l'utiliser, il faut exécuter le fichier "run.bat".
